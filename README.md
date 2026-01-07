@@ -1,4 +1,4 @@
-# [Project Name]
+# Code-splainer
 
 ## 🛠️ Built by The Coding Squad
 This project is managed by the **Jules Code Team** template.
